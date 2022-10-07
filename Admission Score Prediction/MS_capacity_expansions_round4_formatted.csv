@@ -1,0 +1,2 @@
+unique_id,cd_sectionid,cd_coursecode,cd_sectionnumber,cd_instructor,shortname,notes,open_seats,mbaopen,embaopen,countMSBA,countMSNE,countMSPHD,max_capacityMSBA,max_capacityMSNE,max_capacityMSPHD,outMSBA,outMSNE,outMSPHD
+DROM-B8114-001,DROM-B8114-001-2022-1,DROMB8114,001,Paul Glasserman,Applied Regression Analysis,"take 8 seats from MBA and give 7 to MSBA, one to MSNE",8,8,0,7,5,1,7,5,1,22,5,2
