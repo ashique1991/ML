@@ -1,0 +1,28 @@
+This CSV file contains a dataset of 240 stars of 6 classes:
+
+Brown Dwarf -> Star Type = 0
+
+Red Dwarf -> Star Type = 1
+
+White Dwarf-> Star Type = 2
+
+Main Sequence -> Star Type = 3
+
+Supergiant -> Star Type = 4
+
+Hypergiant -> Star Type = 5
+
+The Luminosity and radius of each star is calculated w.r.t. that of the values of Sun.
+Lo = 3.828 x 10^26 Watts
+Ro = 6.9551 x 10^8 m
+
+
+Temperature (K) = This column consists of the Surface temperatures of several stars
+Luminosity(L/Lo) = This column consists of the Luminosity of several stars calculated with respect to sun(L/Lo)
+Absolute magnitude(Mv) = This column consists of the Radius of several stars calculated with respect to sun(R/Ro)
+Star type = This column is the output class (6 classes ranging from 0-5) 0 -> Brown Dwarf 1-> Red Dwarf 2 -> White Dwarf 3-> Main
+Star color = This column contains the info about the colors of each star after Spectral Analysis
+Spectral Class = This column contains info about the spectral classes of each star(O,B,A,F,G,K,,M)
+
+
+
